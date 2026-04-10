@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.ezoo.com/sitemap.xml
+Sitemap: https://www.qzgezoo.com/sitemap.xml
